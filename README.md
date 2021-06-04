@@ -1,9 +1,8 @@
 # TimeKit
 A set of patches that keep time when Origami slows down. 
 They behave mostly like standard Origami patches with the exception that Origami native patches seem to run at 60 FPS even though they have duration inputs in time. These versions run using device time so they are hopefully more accurate
-<br />
+<br /><br />
 PATCHES INCLUDE <br />
-<br />
 Classic Animation+ <br />
 Repeating Animation+ <br />
 Stopwatch+ <br />
